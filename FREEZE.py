@@ -1,0 +1,2 @@
+import My
+My.HYPER()
